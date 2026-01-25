@@ -14,9 +14,6 @@ body {
     padding: 8px;
 }
 
-ul {
-    margin: 0px;
-}
 
 body > header {
     display: flex;
@@ -61,7 +58,4 @@ body > main {
     width: 80%;
 }
 
-h2 {
-    text-align: center;
-}
 
