@@ -7,7 +7,10 @@ body {
 }
 
 #logo {
-    margin: 0px;
+    margin-left: 20vh;
+    margin-right: 0vh;
+    margin-top: 0vh;
+    margin-bottom: 0vh;
     padding: 8px;
 }
 
@@ -17,7 +20,6 @@ ul {
 
 body > header {
     display: flex;
-    align-items: center;
     height: 12vh;
     justify-content: space-around;
 }
