@@ -9,11 +9,12 @@ body {
 body > header {
     display: flex;
     height: 12vh;
+    justify-content: space-between;
     align-items: center;
 }
 
 #logo {
-    margin-left: 15vh;
+    margin-left: 25vh;
     margin-right: 0vh;
     margin-top: 0vh;
     margin-bottom: 0vh;
