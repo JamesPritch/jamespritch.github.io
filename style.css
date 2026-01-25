@@ -6,6 +6,13 @@ body {
     font-size: 1.5vw;
 }
 
+@media (max-width: 768px) {
+body {
+    margin: 5vw;
+    font-size: 15px;
+}
+}
+
 body > header {
     display: flex;
     height: 12vh;
@@ -14,18 +21,18 @@ body > header {
 }
 
 #logo {
-    margin-left: 25vh;
-    margin-right: 0vh;
-    margin-top: 0vh;
-    margin-bottom: 0vh;
-    padding: 8px;
+    margin-left: 25vw;
+    margin-right: 0vw;
+    margin-top: 0vw;
+    margin-bottom: 0vw;
+    padding: 5vw;
 }
 
 #nav-ul {
-    margin-left: 0vh;
-    margin-right: 25vh;
-    margin-top: 0vh;
-    margin-bottom: 0vh;
+    margin-left: 0vw;
+    margin-right: 25vw;
+    margin-top: 0vw;
+    margin-bottom: 0vw;
     list-style: none;
     text-decoration: none;
     display: flex;
