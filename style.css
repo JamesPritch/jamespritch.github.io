@@ -1,7 +1,7 @@
 body {
     background-color: rgb(250, 249, 236);
-    color: rgb(105, 102, 99);
-    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(84, 82, 79);
+    font-family: "TravelingTypewriter", sans-serif;
     margin: 10px;
     font-size: 1.5vw;
 }
@@ -9,7 +9,6 @@ body {
 #logo {
     margin: 0px;
     padding: 8px;
-    font-family: "Baskervville SC", sans-serif;
 }
 
 ul {
@@ -24,7 +23,7 @@ body > header {
 }
 
 body > a {
-    color: rgb(105, 102, 99);
+    color: rgb(84, 82, 79);
 }
 
 #nav-ul {
