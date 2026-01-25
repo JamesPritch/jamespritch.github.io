@@ -24,7 +24,6 @@ body > header {
     list-style: none;
     text-decoration: none;
     display: flex;
-    justify-content: space-around;
 }
 
 #nav-ul > li {
