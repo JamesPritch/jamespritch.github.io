@@ -6,10 +6,10 @@ body {
     font-size: 1.5vw;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 600px) {
 body {
     margin: 5vw;
-    font-size: 15px;
+    font-size: 18px;
 }
 }
 
