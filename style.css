@@ -22,6 +22,10 @@ body > header {
 }
 
 #nav-ul {
+    margin-left: 0vh;
+    margin-right: 25vh;
+    margin-top: 0vh;
+    margin-bottom: 0vh;
     list-style: none;
     text-decoration: none;
     display: flex;
