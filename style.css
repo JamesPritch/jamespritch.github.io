@@ -23,6 +23,10 @@ body > header {
     justify-content: space-around;
 }
 
+body > a {
+    color: rgb(105, 102, 99);
+}
+
 #nav-ul {
     list-style: none;
     text-decoration: none;
