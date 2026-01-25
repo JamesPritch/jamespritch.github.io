@@ -7,7 +7,7 @@ body {
 }
 
 #logo {
-    margin-left: 20vh;
+    margin-left: 15vh;
     margin-right: 0vh;
     margin-top: 0vh;
     margin-bottom: 0vh;
@@ -62,18 +62,8 @@ a:active {
     padding: 12px;
 }
 
-body > main article {
+body > main {
     width: 80%;
-    margin: auto;
-}
-
-#main-content {
-    display: flex;
-    justify-content: center;
-}
-
-#main-content > div {
-    width: 70%;
 }
 
 h2 {
