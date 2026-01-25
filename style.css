@@ -28,6 +28,15 @@ body > header {
     padding: 5vw;
 }
 
+@media (max-width: 600px) {
+#logo {
+    margin-left: 0vw;
+    margin-right: 0vw;
+    margin-top: 0vw;
+    margin-bottom: 0vw;
+}
+}
+
 #nav-ul {
     margin-left: 0vw;
     margin-right: 15vw;
@@ -39,9 +48,25 @@ body > header {
     justify-content: space-around;
 }
 
+@media (max-width: 600px) {
+#nav-ul {
+    margin-left: 0vw;
+    margin-right: 0vw;
+    margin-top: 0vw;
+    margin-bottom: 0vw;
+}
+}
+
 #nav-ul > li {
     padding: 8px;
     margin: 16px;
+}
+
+@media (max-width: 600px) {
+#nav-ul > li {
+    padding: 0px;
+    margin: 6px;
+}
 }
 
 a {
@@ -65,8 +90,6 @@ a:active {
   text-decoration: underline;
 }
 
-body > main {
-    width: 80%;
-}
+
 
 
