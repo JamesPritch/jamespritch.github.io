@@ -2,7 +2,7 @@ body {
     background-color: rgb(250, 249, 236);
     color: rgb(84, 82, 79);
     font-family: "TravelingTypewriter", sans-serif;
-    margin: 10px;
+    margin: 5vh;
     font-size: 1.5vw;
 }
 
@@ -22,8 +22,28 @@ body > header {
     justify-content: space-around;
 }
 
-body > a {
-    color: rgb(84, 82, 79);
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
 }
 
 #nav-ul {
