@@ -1,7 +1,8 @@
 body {
     background-color: rgb(250, 249, 236);
+    color: rgb(105, 102, 99);
     font-family: Arial, Helvetica, sans-serif;
-    margin: 0px;
+    margin: 10px;
     font-size: 1.5vw;
 }
 
@@ -16,7 +17,6 @@ ul {
 }
 
 body > header {
-    color: rgb(105, 102, 99);
     display: flex;
     align-items: center;
     height: 12vh;
@@ -36,10 +36,8 @@ body > header {
 }
 
 .navbutton {
-    color: rgb(105, 102, 99);
     text-decoration: none;
     padding: 12px;
-    border: 1px solid white;
 }
 
 body > main article {
@@ -54,10 +52,6 @@ body > main article {
 
 #main-content > div {
     width: 70%;
-}
-
-form {
-    text-align: center;
 }
 
 h2 {
