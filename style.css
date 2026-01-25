@@ -21,7 +21,7 @@ body > header {
 }
 
 #logo {
-    margin-left: 25vw;
+    margin-left: 15vw;
     margin-right: 0vw;
     margin-top: 0vw;
     margin-bottom: 0vw;
@@ -30,7 +30,7 @@ body > header {
 
 #nav-ul {
     margin-left: 0vw;
-    margin-right: 25vw;
+    margin-right: 15vw;
     margin-top: 0vw;
     margin-bottom: 0vw;
     list-style: none;
