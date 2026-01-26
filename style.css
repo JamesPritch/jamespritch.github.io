@@ -6,10 +6,15 @@ body {
     font-size: 1.5vw;
 }
 
+.dark-mode {
+  background-color: rgb(84, 82, 79);
+  color: rgb(250, 249, 236);
+}
+
 @media (max-width: 600px) {
 body {
     margin: 5vw;
-    font-size: 16px;
+    font-size: 18px;
 }
 }
 
@@ -91,5 +96,3 @@ a:hover {
 a:active {
   text-decoration: underline;
 }
-
-
