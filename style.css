@@ -15,7 +15,7 @@ body {
 
 body > header {
     display: flex;
-    height: 12vh;
+    height: 10vh;
     justify-content: space-between;
     align-items: center;
 }
