@@ -20,6 +20,12 @@ body > header {
     align-items: center;
 }
 
+@media (max-width: 600px) {
+body > header{
+    height: 8vh;
+}
+}
+
 #logo {
     margin-left: 10vw;
     margin-right: 0vw;
@@ -35,7 +41,7 @@ body > header {
     margin-top: 0vw;
     margin-bottom: 0vw;
     padding: 0vw;
-    font-size: 20px;
+    font-size: 22px;
 }
 }
 
