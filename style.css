@@ -23,6 +23,7 @@ body > header {
 @media (max-width: 600px) {
 body > header{
     height: 8vh;
+    align-items: center;
 }
 }
 
